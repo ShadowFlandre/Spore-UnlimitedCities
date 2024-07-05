@@ -1,0 +1,3 @@
+<mod displayName="Unlimited Cities" unique="UnlimitedCities" description="You are now installing the Unlimited Cities mod!&#xA;&#xA;You can place an infinite amount of cities on your planets with this mod!" installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+	<prerequisite>UnlimitedCities.dll</prerequisite>
+</mod>
